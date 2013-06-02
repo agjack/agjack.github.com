@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Blog]]></title>
+  <title><![CDATA[MetricImperialite]]></title>
   <link href="http://metricimperialite.net/atom.xml" rel="self"/>
   <link href="http://metricimperialite.net/"/>
-  <updated>2013-06-02T19:47:10+01:00</updated>
+  <updated>2013-06-02T20:27:32+01:00</updated>
   <id>http://metricimperialite.net/</id>
   <author>
     <name><![CDATA[Andy Jack]]></name>
