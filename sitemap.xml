@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://agjack.github.io/blog/archives/</loc>
+        <loc>http://metricimperialite.net/blog/archives/</loc>
         <lastmod>2013-06-02T19:28:13+01:00</lastmod>
     </url>
     <url>
-        <loc>http://agjack.github.io/robots.txt</loc>
+        <loc>http://metricimperialite.net/robots.txt</loc>
         <lastmod>2013-06-02T19:28:13+01:00</lastmod>
     </url>
     <url>
-        <loc>http://agjack.github.io/</loc>
+        <loc>http://metricimperialite.net/</loc>
         <lastmod>2013-06-02T19:28:13+01:00</lastmod>
     </url>
 </urlset>

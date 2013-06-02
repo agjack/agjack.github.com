@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://agjack.github.io/sitemap.xml 
+Sitemap: http://metricimperialite.net/sitemap.xml 
